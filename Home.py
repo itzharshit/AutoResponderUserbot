@@ -6,7 +6,7 @@ string= '1ApWapzMBuxnxUHxe-hALnT9r0mCe_uUR8-fdMVuSWfO8xyVL18PUHjdr37Cbq8XJUGkXJe
 api_hash = 'eb06d4abfb49dc3eeb1aeb98ae0f581e'
 session_name = 'my_session'
 # Create a new Telegram client
-client = TelegramClient(api_id, api_hash, StringSession(string))
+client = TelegramClient(api_id, api_hash, string)
 # Define the message to be sent as an auto-reply
 auto_reply_message = 'Thanks for your message! I will get back to you as soon as possible.'
 # Define the event handler for incoming messages

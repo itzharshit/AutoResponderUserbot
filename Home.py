@@ -6,7 +6,7 @@ from telethon import TelegramClient, events, sync
 api_id = 6
 api_hash = 'eb06d4abfb49dc3eeb1aeb98ae0f581e'
 session_name = 'YOUR_SESSION_NAME'
-SESSION = '1ApWapzMBuxnxUHxe-hALnT9r0mCe_uUR8-fdMVuSWfO8xyVL18PUHjdr37Cbq8XJUGkXJeqBqypfpxp5JApT4xWg1Ac6-UznAx_EMnhZJ4JFmaYl1PoRbD8_oClvj9lkD-ItkVW23Pfi_VFswCEha8KOQgts3wCduGZJzuokdb4-263G_fchji72I6T3g4nDC8JZ-wiXJXR__9BW0MTmIs8dZ6ixkygVu9pGHh2Iwdb-3auDGmqxe8T-FMwU3Q7tgVQJyD4rbucfhjDDhAOL2B9PHINucfVrIo0kvj0HhWdxljnYS6_T8Yk5viYdAH-fY0heIe2bp6YlGh6HX4sTX2zd_9v1cbM='
+SESSION = '1ApWapzMBuy4oRBnIx61vYnf7pgSVNXVBxsGzbn6cGdZ8CgrR99v5DOWzA0WnP2P2pfDxZcnRW-On0V6ySZPemtfUJC4LBc2K7iqeuTd5k7MVo4ZA1zl4wt27CrZA9a3eb9c7ymmH2fVPR9TTS9e2Ma-1wJF32-ak6DIIFkdaW7QmrmwCHyyL-VSFvnhUSWeFQQ0YPsR7exm8c8_sTrOkCemLhKkJxWBakEpCukEm0cb9Bx014FM36xXZmOL5j2QtfOoVAwNXZTmERmw3tjj3ZltbfZy7_A0ANKsmImJaGzHJpSCVpH9g5yvr9cOs6oKSqi-OQ3qQ_0HNe1uyYVx6jlUi-YDh6DU='
 # replace this message with the message you want to send to users when you are offline
 offline_message = 'Sorry, I am currently offline. I will respond to your message as soon as possible.'
 

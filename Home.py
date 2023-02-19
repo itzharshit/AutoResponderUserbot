@@ -1,5 +1,5 @@
-from telethon import TelegramClient, events
-
+from telethon import TelegramClient, events 
+from telethon.sessions import StringSession
 # Replace the values below with your own API ID, API Hash and session file name
 api_id = 6
 string= '1ApWapzMBuxnxUHxe-hALnT9r0mCe_uUR8-fdMVuSWfO8xyVL18PUHjdr37Cbq8XJUGkXJeqBqypfpxp5JApT4xWg1Ac6-UznAx_EMnhZJ4JFmaYl1PoRbD8_oClvj9lkD-ItkVW23Pfi_VFswCEha8KOQgts3wCduGZJzuokdb4-263G_fchji72I6T3g4nDC8JZ-wiXJXR__9BW0MTmIs8dZ6ixkygVu9pGHh2Iwdb-3auDGmqxe8T-FMwU3Q7tgVQJyD4rbucfhjDDhAOL2B9PHINucfVrIo0kvj0HhWdxljnYS6_T8Yk5viYdAH-fY0heIe2bp6YlGh6HX4sTX2zd_9v1cbM='

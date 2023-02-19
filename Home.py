@@ -35,7 +35,7 @@ async def handle_incoming_message(event):
 
     # Send the auto-reply message to the sender of the incoming message
 
-    await client.send_message(event.chat_id, auto_reply_message)
+    await event.send_message(auto_reply_message)
 
 # Start the client
 
